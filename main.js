@@ -1,1 +1,1 @@
-alert(viviane,anareis,mahara,rafaela)
+alert('viviane,anareis,mahara,rafaela')
