@@ -18,8 +18,10 @@ let i=0;27
 while(i<estados.length)
  {console.log(i);
 console.log(estados[i]),
-
-
-        i=i+1
-
+ i=i+1
+}
+for (let i = 0; i  < array.length; i++) {
+    console.log(i);
+    console.log(estados[i]),  
+    
 }
