@@ -17,7 +17,7 @@ let estados=["AC","AL","AP","AM","BA","CE","DF","ES","GO","MA","MT","MS","MG","P
 let i=0;27
 while(i<27)
      {console.log(i);
-console.log(estados[i])
+console.log(estados[i]),
 
         i=i+1
 
