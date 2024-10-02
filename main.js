@@ -25,7 +25,7 @@ for (let i = 0; i  < array.length; i++) {
     console.log(estados[i]), 
 
 
-let idade=parseInt(prompt(qual sua idade?));
+let 'idade'=parseInt(prompt(qual sua idade?));
 if(idade>17){
 console.log("pode dirigir."),
 }
