@@ -1,4 +1,4 @@
-alert('viviane,rafaela')
+alert('viviane')
 function soma (numero1,numero2){return numero1+numero2
 
 }
