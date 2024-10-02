@@ -22,7 +22,7 @@ console.log(estados[i]),
 }
 for (let i = 0; i  < array.length; i++) {
     console.log(i);
-    console.log(estados[i]), 
+    console.log(estados[i]), }
 
 
 let 'idade'=parseInt(prompt(qual sua idade?)),
